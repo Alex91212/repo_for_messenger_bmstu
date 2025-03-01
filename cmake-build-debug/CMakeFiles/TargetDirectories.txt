@@ -1,0 +1,3 @@
+/home/alex/CLionProjects/messenger_bmstu/cmake-build-debug/CMakeFiles/messenger_bmstu.dir
+/home/alex/CLionProjects/messenger_bmstu/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alex/CLionProjects/messenger_bmstu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
