@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/alex/CLionProjects/messenger_bmstu/cmake-build-debug"
+			"value" : "/home/alex/C_lion_projects/messenger_bmstu/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -415,7 +415,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/alex/CLionProjects/messenger_bmstu/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/alex/C_lion_projects/messenger_bmstu/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/alex/CLionProjects/messenger_bmstu"
+			"value" : "/home/alex/C_lion_projects/messenger_bmstu"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1035,7 +1035,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/alex/CLionProjects/messenger_bmstu/cmake-build-debug"
+			"value" : "/home/alex/C_lion_projects/messenger_bmstu/cmake-build-debug"
 		},
 		{
 			"name" : "messenger_bmstu_IS_TOP_LEVEL",
@@ -1059,7 +1059,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/alex/CLionProjects/messenger_bmstu"
+			"value" : "/home/alex/C_lion_projects/messenger_bmstu"
 		}
 	],
 	"kind" : "cache",

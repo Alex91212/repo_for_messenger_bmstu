@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "messenger_bmstu::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-messenger_bmstu-Debug-8ffd5d5cfbeea42ec725.json",
+					"jsonFile" : "target-messenger_bmstu-Debug-32755f0b8f646d9e2fe6.json",
 					"name" : "messenger_bmstu",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/alex/CLionProjects/messenger_bmstu/cmake-build-debug",
-		"source" : "/home/alex/CLionProjects/messenger_bmstu"
+		"build" : "/home/alex/C_lion_projects/messenger_bmstu/cmake-build-debug",
+		"source" : "/home/alex/C_lion_projects/messenger_bmstu"
 	},
 	"version" : 
 	{
